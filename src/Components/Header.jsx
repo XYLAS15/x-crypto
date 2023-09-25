@@ -10,11 +10,11 @@ const Header = () => {
     <Link to={"/"}>Home</Link>
     </Button>
 
-    <Button varient={"unstyled"} color={"black"} >
+    <Button varient={"unstyled"} color={"blackAlpha"} >
     <Link to={"/Exchanges"}>Exchanges</Link>
     </Button>
 
-    <Button varient={"unstyled"} color={"black"} >
+    <Button varient={"unstyled"} color={"blackAlpha"} >
     <Link to={"/Coins"}>Coins</Link>
     </Button>
 
