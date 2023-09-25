@@ -6,7 +6,7 @@ const Header = () => {
   return(
 
    <HStack p={"4"} shadow={"base"} bgColor={"blackAlpha.900"}>
-    <Button varient={"unstyled"} color={"white"} >
+    <Button varient={"unstyled"} color={"black"} >
     <Link to={"/"}>Home</Link>
     </Button>
 
